@@ -1,0 +1,28 @@
+body{
+    margin-top: 150px;
+    background-color: paleturquoise;
+}
+
+.c-body{
+    margin: auto;
+    width: 50%;
+    border: 3px white solid;
+    background-color: lightgrey;
+}
+
+.htext{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button{
+    color: black;
+    margin-top: 10px;
+}

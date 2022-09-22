@@ -1,0 +1,88 @@
+.nav-bar{
+    background-color: brown;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 0px;
+    width: 100%;
+    display: inline-block;
+}
+.nav-bar h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.nav-bar h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+.nav-bar h4{
+    color: white;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+.nav-bar a{
+    padding-bottom: 20px;
+    margin-right: 20px;
+}
+.landing-page{
+   background-color: red;
+    text-align: center;
+}
+.landing-text{
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+margin-top: 20%;
+}
+.button{
+    background-color: lightgrey;
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 15px;
+}
+.buttons{
+   margin-left: 48%;
+   
+    background-color: lightgrey;
+    padding: 10px;
+    border: 1px black solid;
+    border-radius: 15px;
+}
+.main-block-about{
+    background-color: bisque;
+    font-family: Helvetica, Arial, Sans-serif;
+    line-height: 1.6em;
+    float: right;
+    width: 45%;
+    padding: 10%;
+    
+    
+}
+h4{
+    font-style: italic;
+}
+.passport-image{
+    width: 35%;
+}
+.contact-body{
+    background-color: bisque;
+}
+form{
+    margin: auto;
+    margin-top: 15%;
+    width: 50%;
+    background-color: grey;
+    text-align: center;
+    padding: 10px;
+    border: 1px lightgrey dashed;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}

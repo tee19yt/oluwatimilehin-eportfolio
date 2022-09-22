@@ -1,0 +1,33 @@
+body{
+    background-color: azure;
+    padding: 10px;
+}
+
+.head{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a.b{
+    color: black;
+    font-size: 15px ;
+}
